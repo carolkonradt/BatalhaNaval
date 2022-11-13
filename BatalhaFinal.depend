@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653785712 source:d:\engenharia 2 semestre\batalhafinal\functions.c
+	<stdio.h>
+
+1653786083 source:d:\engenharia 2 semestre\batalhafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"functions.h"
+
+1653785712 d:\engenharia 2 semestre\batalhafinal\functions.h
+
